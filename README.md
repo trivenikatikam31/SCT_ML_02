@@ -29,4 +29,4 @@ Mall Customer Dataset
 Successfully divided customers into 5 segments based on annual income and spending score.
 
 ## Author
-Your Name katikam venkata tirumala triveni
+ katikam venkata tirumala triveni
